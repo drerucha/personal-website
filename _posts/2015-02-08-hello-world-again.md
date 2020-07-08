@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello World… Again!"
+tags: [life]
 ---
 
 I’m back! Has it really been more than a year since my last post?

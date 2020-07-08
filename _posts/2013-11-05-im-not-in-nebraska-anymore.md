@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I’m Not in Nebraska Anymore"
+tags: [life]
 ---
 
 Philadelphia is different from Omaha. Profound, right? Obviously they’re different. The 2 cities were founded almost 200 years apart, more than 1200 miles separate their centers, and their respective states have sported opposing colors on every election infographic I’ve ever seen.

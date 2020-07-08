@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "She’s the Man in the Reflection on the Bus"
+tags: [life]
 ---
 
 Today, I adventured to Washington DC to spend the holidays with family.

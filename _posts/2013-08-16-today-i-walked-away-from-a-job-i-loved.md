@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Today, I Walked Away From a Job I Loved"
+tags: [life]
 ---
 
 In January 2012, I was looking for an internship. I spent the previous summer as an intern writing code in a cubicle farm, and I was in desperate need of change.

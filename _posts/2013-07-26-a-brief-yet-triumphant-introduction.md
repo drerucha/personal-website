@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Brief Yet Triumphant Introduction"
+tags: [life]
 ---
 
 Hello there! Welcome to my blog! My name is Danny! Some people call me Danno. A select few call me Iceman. But most call me Danny!

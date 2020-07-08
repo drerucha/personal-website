@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Have Less Lecture, and I Must Scream"
+tags: [life]
 ---
 
 I learned something about myself today.

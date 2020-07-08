@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Interview With DreamWorks Animation"
+tags: [animation]
 ---
 
 Today I had an interview with DreamWorks Animation, and I’ve never been more excited (or more nervous) for an interview in my entire life!

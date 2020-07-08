@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Leaving Home"
+tags: [life]
 ---
 
 ## Goodbye Family

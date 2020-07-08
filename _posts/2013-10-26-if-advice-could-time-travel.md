@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "If Advice Could Time Travel"
+tags: [life]
 ---
 
 Recently, I retired two laptop hard drives, and while backing them up, I struck gold. Here’s a nugget I wrote as part of a scholarship application sometime during my freshman year of college. My best guess at the prompt I was responding to: “If you could speak to your high school self today, what advice would you share to help them succeed in college?”

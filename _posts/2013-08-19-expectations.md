@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Expectations"
+tags: [life]
 ---
 
 Recently, I’ve been thinking a lot about moving.

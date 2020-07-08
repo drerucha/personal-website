@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Was Not Awarded the J.P. Eckert Fellowship"
+tags: [life]
 ---
 
 I said in my last post I would write openly about my accomplishments as well as my failures and disappointments. Well, it didn’t take long for me to run face first into some disappointment. Today, I found out I wasn’t awarded the J.P. Eckert Fellowship I applied for.
